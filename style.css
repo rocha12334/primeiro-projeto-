@@ -11,3 +11,12 @@ rby{
 /*estilo do cabeçalho*/
 header{background-color: #ffffff;/* fundo braco para o cabeçalho*/
 }
+/*seções gerais*/
+section{
+    padding-bottom: 5rem; /*epasamento inferior grande para seções*/
+}
+/*links de navegação*/
+.nav-link{
+    color: #cb6d43; /*cor marrom-alaranjada para os link*/
+    font-weight: 600; /*texto em negrito*/
+}
